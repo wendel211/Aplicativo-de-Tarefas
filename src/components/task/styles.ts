@@ -9,6 +9,7 @@ export const Container = styled.TouchableOpacity`
     border-radius: 4px; 
     background-color: #304163;
     overflow: hidden; 
+    margin-bottom: 16px;
 `;
 
 export const TaskText = styled.Text`    
