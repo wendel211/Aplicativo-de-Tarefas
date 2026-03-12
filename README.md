@@ -1,24 +1,29 @@
-# 📋 Aplicativo de Tarefas
+# Aplicativo de Tarefas
 
-Um aplicativo simples de lista de tarefas (to-do list) desenvolvido em **React Native com TypeScript**, focado em produtividade e organização do dia a dia.
+Um aplicativo de lista de tarefas (to-do list) desenvolvido em **React Native com TypeScript**, com foco em produtividade, organização e praticidade no gerenciamento das atividades do dia a dia.
 
-## 🚀 Tecnologias Utilizadas
+## Sobre o projeto
 
-* React Native
-* Expo
-* TypeScript
+Este projeto foi desenvolvido com o objetivo de oferecer uma aplicação simples, funcional e intuitiva para o controle de tarefas. A proposta é permitir que o usuário adicione, acompanhe, conclua e remova tarefas de forma rápida, em uma interface limpa e de fácil utilização.
 
-## 📂 Estrutura do Projeto
+Além de sua utilidade prática, o projeto também serve como aplicação de estudo para o desenvolvimento mobile com **React Native**, utilizando **TypeScript** para maior organização, tipagem e manutenção do código.
 
-```
-├── assets/           # Imagens e ícones do app
+## Tecnologias utilizadas
+
+- React Native
+- Expo
+- TypeScript
+
+## Estrutura do projeto
+
+```bash
+├── assets/           # Imagens e ícones do aplicativo
 ├── src/components/   # Componentes reutilizáveis
-├── App.tsx           # Arquivo principal
-├── package.json      # Dependências do projeto
-└── tsconfig.json     # Configuração TypeScript
-```
+├── App.tsx           # Arquivo principal da aplicação
+├── package.json      # Dependências e scripts do projeto
+└── tsconfig.json     # Configurações do TypeScript
 
-## ⚙️ Instalação e Execução
+## Instalação e Execução
 
 1. Clone o repositório:
 
@@ -48,16 +53,13 @@ npm start
 yarn start
 ```
 
-## 📱 Funcionalidades
+##  Funcionalidades
 
-* ✅ Adicionar novas tarefas
-* ✏️ Marcar tarefas como concluídas
-* 🗑️ Remover tarefas
-* 🎨 Interface simples e intuitiva
+*  Adicionar novas tarefas
+*  Marcar tarefas como concluídas
+*  Remover tarefas
+*  Interface simples e intuitiva
 
-## 🖼️ Demonstração
-
-(Imagens ou GIFs do app podem ser adicionados aqui, a partir da pasta `assets/`)
 
 ## 📌 Melhorias Futuras
 
@@ -65,6 +67,6 @@ yarn start
 * Organização por categorias
 * Notificações de lembrete
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por Wendel Muniz 🚀
